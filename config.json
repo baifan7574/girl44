@@ -1,4 +1,5 @@
 {
   "domain": "https://g4.gogamefun.com",
-  "category_css": "style.css"
+  "category_css": "style.css",
+  "ad_code": "<script>\n(function(fdd){\nvar d = document,\n    s = d.createElement('script'),\n    l = d.scripts[d.scripts.length - 1];\ns.settings = fdd || {};\ns.src = \"\\/\\/trim-bicycle.com\\/b.X\\/V_spqigDg1p0nYTWZci\\/keXmp9LuEZSU\\/lpkgP\\/TyYd1iM\\/jxUMzjMTUYStzNfJ\\/Upy\\/NqTEM\\/xrNwW\";\ns.async = true;\ns.referrerPolicy = 'no-referrer-when-downgrade';\nl.parentNode.insertBefore(s, l);\n})({})\n</script>"
 }
